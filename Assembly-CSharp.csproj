@@ -50,7 +50,7 @@
      <Compile Include="Assets\Screepts\CoinRotor.cs" />
      <Compile Include="Assets\Screepts\Coin_Counter.cs" />
      <Compile Include="Assets\Screepts\Counter.cs" />
-     <Compile Include="Assets\Screepts\OtherCode.cs" />
+     <Compile Include="Assets\Screepts\MenuButton.cs" />
      <Compile Include="Assets\Screepts\modzraoba.cs" />
      <Compile Include="Assets\Screepts\moveCamera.cs" />
  <Reference Include="UnityEngine.UI">
